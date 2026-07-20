@@ -9,7 +9,6 @@ int main() {
 
     while(escolha != 4){
 
-        printf("1.Alcool\n2.Gasolina\n3.Diesel\n4.Fim\n");
         scanf("%d", &escolha);
 
         switch (escolha){
